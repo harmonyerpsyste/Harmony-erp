@@ -1,0 +1,1 @@
+web: gunicorn harmony_erp.wsgi:application
